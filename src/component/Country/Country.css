@@ -1,0 +1,17 @@
+.country-coloumn{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 5px;
+   align-items: center;
+   grid-gap: 10px;
+}
+.county-ip{
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+}
+.county-img{
+    width: 200px;
+    height: 100px;
+    padding: 20px
+}
